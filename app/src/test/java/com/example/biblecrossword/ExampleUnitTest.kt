@@ -1,4 +1,4 @@
-package com.example.myproject03
+package com.example.biblecrossword
 
 import org.junit.Test
 

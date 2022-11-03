@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.myproject03'
+    namespace 'com.example.biblecrossword'
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.example.myproject03"
+        applicationId "com.example.biblecrossword"
         minSdk 21
         targetSdk 32
         versionCode 1
