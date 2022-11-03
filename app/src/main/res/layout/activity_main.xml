@@ -41,7 +41,7 @@
                     android:textAlignment="center"
                     android:id="@+id/m11"
                     android:maxLength="1"
-                    android:hint="1" />
+                    android:hint="A" />
             </com.google.android.material.textfield.TextInputLayout>
             <com.google.android.material.textfield.TextInputLayout
                 android:layout_width="50dp"
@@ -51,7 +51,7 @@
                 <com.google.android.material.textfield.TextInputEditText
                     android:layout_width="50dp"
                     android:layout_height="wrap_content"
-                    android:hint="2" />
+                    android:hint="B" />
             </com.google.android.material.textfield.TextInputLayout>
             <com.google.android.material.textfield.TextInputLayout
                 android:layout_width="50dp"
@@ -61,7 +61,7 @@
                 <com.google.android.material.textfield.TextInputEditText
                     android:layout_width="50dp"
                     android:layout_height="wrap_content"
-                    android:hint="3" />
+                    android:hint="C" />
             </com.google.android.material.textfield.TextInputLayout>
             <com.google.android.material.textfield.TextInputLayout
                 android:layout_width="50dp"
